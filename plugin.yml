@@ -1,0 +1,9 @@
+name: Unnatural Selection
+version: 1.0
+author: coldandtired
+main: me.coldandtired.unnatural_selection.Main
+description: Allows only certain players to breed animals
+permissions:
+    unnatural_selection.can_breed:
+        description: Allows players to breed animals
+        default: op
